@@ -1,0 +1,57 @@
+@font-face {
+    font-family: "Quicksand";
+    src: url("fonts/Quicksand-Medium.ttf");
+}
+
+@font-face {
+    font-family: "Ks";
+    src: url("fonts/Ubuntu-Medium.ttf");
+}
+
+* {
+    font-family: "Quicksand";
+    font-size: 14px;
+}
+
+.ffs1{
+    font-family:"Ks";
+}
+.atext{
+    font-family: "Ks";
+}
+.logo {
+    background-image: url("self-study.png");
+    height: 100px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.title1 {
+    font-family: "Ks";
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+.title2 {
+
+    font-size: 25px;
+    font-weight: bold;
+}
+.side-body{
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.logof{
+    background-image: url("self-study.png");
+    height: 80px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.hlogo{
+    background-image: url("self-study.png");
+    height: 200px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
